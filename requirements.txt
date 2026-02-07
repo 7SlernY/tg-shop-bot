@@ -1,2 +1,0 @@
-aiogram==3.13.1
-yookassa==2.0.0
